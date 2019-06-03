@@ -12,3 +12,5 @@ Source code for the takeit.com website
 * **Run test:**
     * yarn start;  or
     * npm run start
+* **Devs: **
+   *Daniel Arroyo, Miguel Patiño, Frabicio Herrera, Neythan León
